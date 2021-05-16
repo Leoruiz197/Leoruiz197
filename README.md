@@ -19,7 +19,7 @@ Bem Vindos <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.g
 - C
 - PHP
 
-<table>
+<table border="0">
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoruiz197&show_icons=true&hide=html,Visual Basic .NET&langs_count=10&layout=compact&theme=buefy&count_private=true" />
       </td>

@@ -10,7 +10,7 @@
 
 - **Professor** desde 2019
 
-###**Todo o conteúdo meus repositórios** são livres para agregar conhecimento a qualquer pessoa que assim desejar.
+### **Todo o conteúdo meus repositórios** são livres para agregar conhecimento a qualquer pessoa que assim desejar.
 
 ## Linguagens que me interesso
 
@@ -19,10 +19,10 @@
 - C
 - PHP
 
-<table border="0">
+<table border:none>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoruiz197&show_icons=true&hide=html,Visual Basic .NET&langs_count=10&layout=compact&theme=buefy&count_private=true" />
+        <td border:none><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoruiz197&show_icons=true&hide=html,Visual Basic .NET&langs_count=10&layout=compact&theme=buefy&count_private=true" />
       </td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Leoruiz197&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true&hide=contribs,prs,issues"/>
+        <td border:none><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Leoruiz197&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true&hide=contribs,prs,issues"/>
       </td> 
 </table>

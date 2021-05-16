@@ -1,16 +1,16 @@
 <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/hello.gif" width="300px">
 
-Bem Vindos <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="30px">
+# Bem Vindos <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="50px">
 
 [//]: contributor-faces
 
 <a href="https://github.com/leoruiz197"><img src="https://avatars.githubusercontent.com/u/14226441?v=4" title="Leo" width="80" height="80"></a> Leonardo Ruiz Orabona
 
-**Programador** desde 2015
+- **Programador** desde 2015
 
-**Professor** desde 2019
+- **Professor** desde 2019
 
-**Todo o conteúdo meus repositórios** são livres para agregar conhecimento a qualquer pessoa que assim desejar.
+###**Todo o conteúdo meus repositórios** são livres para agregar conhecimento a qualquer pessoa que assim desejar.
 
 ## Linguagens que me interesso
 

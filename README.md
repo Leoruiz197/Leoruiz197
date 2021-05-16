@@ -1,16 +1,28 @@
-### Hi there 👋
+<img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/hello.gif" width="300px">
 
-<!--
-**Leoruiz197/Leoruiz197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem Vindos <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="30px">
 
-Here are some ideas to get you started:
+[//]: contributor-faces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/leoruiz197"><img src="https://avatars.githubusercontent.com/u/14226441?v=4" title="Leo" width="80" height="80"></a> Leonardo Ruiz Orabona
+
+**Programador** desde 2015
+
+**Professor** desde 2019
+
+**Todo o conteúdo meus repositórios** são livres para agregar conhecimento a qualquer pessoa que assim desejar.
+
+## Linguagens que me interesso
+
+- Python
+- C++ (Arduino)
+- C
+- PHP
+
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoruiz197&show_icons=true&hide=html,Visual Basic .NET&langs_count=10&layout=compact&theme=buefy&count_private=true" />
+      </td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Leoruiz197&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true&hide=contribs,prs,issues"/>
+      </td> 
+</table>

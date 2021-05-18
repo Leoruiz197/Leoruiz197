@@ -10,7 +10,7 @@
 
 - **Professor** desde 2019
 
-### **Todo o conteúdo meus repositórios** são livres para agregar conhecimento a qualquer pessoa que assim desejar.
+### **Todo o conteúdo em meus repositórios** são livres para agregar conhecimento a qualquer pessoa que assim desejar.
 
 ## Linguagens que me interesso
 

@@ -14,6 +14,7 @@
 
 ## Linguagens que me interesso
 
+- Javascript
 - Python
 - C++ (Arduino)
 - C

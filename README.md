@@ -23,7 +23,7 @@
 ## Onde me encontrar
 
 <div>
-  <a href="https://www.youtube.com/channel/UC3dCtxAY9GUUUwXwyDnX1Kg"><img height="30" width="40" style="fill: #DA4567;" src = "https://simpleicons.org/icons/youtube.svg"></a>
+  <a href="https://www.youtube.com/channel/UC3dCtxAY9GUUUwXwyDnX1Kg"><img height="30" width="40" fill="#DA4567" src = "https://simpleicons.org/icons/youtube.svg"></a>
   <a href="https://www.instagram.com/leoruiz197/"><img height="30" width="40" src = "https://simpleicons.org/icons/instagram.svg"></a>
   <a href= "https://www.linkedin.com/in/leonardoorabona/"><img height="30" width="40" src = "https://simpleicons.org/icons/linkedin.svg"></a>
   <a href="mailto:ruizruizleo@hotmail.com"><img height="30" width="40" src = "https://simpleicons.org/icons/gmail.svg"></a>

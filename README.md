@@ -20,6 +20,15 @@
 - C
 - PHP
 
+## Onde me encontrar
+
+<div>
+  <a href="https://www.youtube.com/channel/UC3dCtxAY9GUUUwXwyDnX1Kg"><img height="30" width="40" src = "https://simpleicons.org/icons/youtube.svg"></a>
+  <a href="https://www.instagram.com/leoruiz197/"><img height="30" width="40" src = "https://simpleicons.org/icons/instagram.svg"></a>
+  <a href= "https://www.linkedin.com/in/leonardoorabona/"><img height="30" width="40" src = "https://simpleicons.org/icons/linkedin.svg"></a>
+  <a href="mailto:ruizruizleo@hotmail.com"><img height="30" width="40" src = "https://simpleicons.org/icons/gmail.svg"></a>
+</div>
+
 <table border:none>
     <tr>
         <td border:none><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoruiz197&show_icons=true&hide=html,Visual Basic .NET&langs_count=10&layout=compact&theme=buefy&count_private=true" />

@@ -16,9 +16,9 @@
 
 - Javascript <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 - Python <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- C++ (Arduino)
-- C
-- PHP
+- C++ (Arduino) <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+- C <img align="center" alt="Python" height="30" width="40" src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+- PHP <img align="center" alt="Python" height="30" width="40" src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 ## Onde me encontrar
 

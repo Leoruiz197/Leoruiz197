@@ -64,19 +64,10 @@ I am currently focused on projects involving:
 - Educational tools for programming and software engineering
 - Practical applications that connect software, data, and physical devices
 
-## GitHub Activity
+## GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leoruiz197&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoruiz197&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
-</div>
-
-## Dynamic GitHub Metrics
-
-The section below is designed to work with [lowlighter/metrics](https://github.com/lowlighter/metrics), allowing this profile to display automatically updated GitHub activity and language insights.
-
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="95%" />
+  <img src="./github-metrics.svg" alt="GitHub profile metrics" width="95%" />
 </div>
 
 ## Knowledge Sharing
